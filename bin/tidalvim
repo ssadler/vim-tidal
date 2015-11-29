@@ -2,7 +2,7 @@
 
 DEFAULT_PATH=~
 DEFAULT_FILE=foo.tidal
-DIRT_PATH=~/dirt
+DIRT_PATH=~/code/audio/Dirt/
 DIRT_OPTIONS=
 
 
